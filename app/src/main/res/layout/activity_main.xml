@@ -28,7 +28,7 @@
                 android:layout_width="0dp"
                 android:layout_height="50dp"
                 android:layout_weight="1"
-                android:inputType="numberDecimal"
+                android:inputType="number"
                 android:hint="Type your user id"/>
             <Button
                 android:id="@+id/requestButton"
